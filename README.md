@@ -1,18 +1,37 @@
-## Hi, I'm Kalpi!
+## Hi, I'm Kalpi! 👋 
 
-<b>I'm a 3rd-year Computer Science Student at Western University passionate about building meaningful solutions. I'm particularly interested in the intersection of AI and cybersecurity.</b>
+I'm a Computer Science Student at Western University passionate about building meaningful solutions.
 
-## Current Projects
+#### Current Projects
 - LatticeTalk: End-to-end encrypted quantum safe messaging web application
 - DigitRecognizer: A model that recognizes and classifies handwritten digits from images 
 - PracticePal: Music practice tracker with real-time feedback and progress analytics
 
-## I build with...
-- Python, TypeScript, C++, Java
+#### Tech Stack
+Here are the major technologies that I have worked with or am working with currently!
+#### Programming Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" width="40" height="40" />
+</div>
 
-Feel free to reach out! Always looking for new opportunities and am happy to chat 
+#### Databases
+<div>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" width="40" height="40" />
+</div>
+<br><br>
+Feel free to reach out, always looking for new opportunities and am happy to chat!
+<br><br>
 
-[<img align="left" alt="Kalpi Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="KalpiPatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kalpi Patel | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][email]
+
+[email]: mailto:kalpi.patel@outlook.com
 [linkedin]: https://www.linkedin.com/in/kalpipatel/
 
 <!--
